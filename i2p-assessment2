@@ -12,7 +12,7 @@ The data was provided by Murray Cox, who compiled and analyzed public and availa
 
 ### 2. Why did they collect it?
 
-It allows individuals who are interested to explore how Airbnb is being used in cities around the world and how it competes with the residential housing market.[1] It also guides comparing the business snapshots provided by Airbnb with the captured data by Inside Airbnb to ensure the authenticity and transparency of the information
+It allows individuals who are interested to explore how Airbnb is being used in cities around the world and how it competes with the residential housing market.[5] It also guides comparing the business snapshots provided by Airbnb with the captured data by Inside Airbnb to ensure the authenticity and transparency of the information
 
 ---
 
@@ -60,17 +60,22 @@ For data ethics, analysis of some personal information about hosts would not be 
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
-In data ethics, issues of data use, ownership, dependability of researchers, and privacy are all concerns. [2] Obviously, the analysis of price and houses should be ethical. The main reason for this data disclosure is hosts tend to gain revenue from renting out their properties or rooms. For the hosts, there is a balance between risk and return or the return outweighs the risk. It also helps tenants to find favorite types of listings within a reasonable price range.
-The use of host information is the most controversial. General Data Protection Regulations (GDPR) emphasize that researchers need to protect the basic rights of natural persons in the collection and processing of data related to personal data, and natural persons can control their personal data. [3] Cause the contents of the dataset involves the privacy of hosts, the hosts need to be informed and consent to the data storage. [4] As a result, if hosts do not consent to the data being used for analysis, that is a violation of privacy and unethical behavior. According to the statement from Inside Airbnb, no private information was used in the dataset, and all the data was displayed on Airbnb. Null values in hosts’ information may not have been approved by the hosts. So, the available data about hosts should be ethical. However, the hosts’ information may relate to gender, race, and sexual orientation. This raises potential discrimination. [5] If the host is a homosexual, the tenant may reject the house due to prejudice.
+In data ethics, issues of data use, ownership, dependability of researchers, and privacy are all concerns. [3] Obviously, the analysis of price and houses should be ethical. The main reason for this data disclosure is hosts tend to gain revenue from renting out their properties or rooms. For the hosts, there is a balance between risk and return or the return outweighs the risk. It also helps tenants to find favorite types of listings within a reasonable price range.
+The use of host information is the most controversial. General Data Protection Regulations (GDPR) emphasize that researchers need to protect the basic rights of natural persons in the collection and processing of data related to personal data, and natural persons can control their personal data. [4] Cause the contents of the dataset involves the privacy of hosts, the hosts need to be informed and consent to the data storage. [1] As a result, if hosts do not consent to the data being used for analysis, that is a violation of privacy and unethical behavior. According to the statement from Inside Airbnb, no private information was used in the dataset, and all the data was displayed on Airbnb. Null values in hosts’ information may not have been approved by the hosts. So, the available data about hosts should be ethical. However, the hosts’ information may relate to gender, race, and sexual orientation. This raises potential discrimination. [2] If the host is a homosexual, the tenant may reject the house due to prejudice.
 
 ### References
 
-[1] Inside Airbnb. *About Inside Airbnb*. Available at: http://insideairbnb.com/about.html.
+[1] Bemt, V. van den, J. Doornbos, L. Meijering, M. Plegt, and N. Theunissen. 2018. “Teaching Ethics When Working with Geocoded Data: A Novel Experiential Learning Approach.” *Journal of Geography in Higher Education* 42 (2): 293–310. https://doi.org/https://doi.org/10.1080/03098265.2018.1436534.
 
-[2] Crawford, K., and M. Finn. 2015. “The Limits of Crisis Data: Analytical and Ethical Challenges of Using Social and Mobile Data to Understand Disasters.” *GeoJournal* 80 (4): 491–502. https://doi.org/https://doi.org/10.1007/s10708-014-9597-z.
+[2] Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital Discrimination: The Case of Airbnb.” *International Journal of Hospitality Management* 70: 95–98. https://doi.org/10.1016/j.ijhm.2017.11.002.
 
-[3]
+[3] Crawford, K., and M. Finn. 2015. “The Limits of Crisis Data: Analytical and Ethical Challenges of Using Social and Mobile Data to Understand Disasters.” *GeoJournal* 80 (4): 491–502. https://doi.org/https://doi.org/10.1007/s10708-014-9597-z.
 
-[4] Bemt, V. van den, J. Doornbos, L. Meijering, M. Plegt, and N. Theunissen. 2018. “Teaching Ethics When Working with Geocoded Data: A Novel Experiential Learning Approach.” *Journal of Geography in Higher Education* 42 (2): 293–310. https://doi.org/https://doi.org/10.1080/03098265.2018.1436534.
+[4] GDPR. Available online at https://gdpr-info.eu/art-4-gdpr/ (last accessed Nov 23, 2020). Google Scholar
 
-[5] Cheng, M., and C. Foley. 2018. “The Sharing Economy and Digital Discrimination: The Case of Airbnb.” *International Journal of Hospitality Management* 70: 95–98. https://doi.org/10.1016/j.ijhm.2017.11.002.
+[5] Inside Airbnb. *About Inside Airbnb*. Available at: http://insideairbnb.com/about.html.
+
+
+
+
+
