@@ -223,7 +223,7 @@ plot(teststats, add=T, col = "red")
 K <- sat_good_performeance_spaces_2.ppp %>%
   Kest(., correction="border") %>%
   plot()
-##从0到大约5300米似乎都是聚集cluster在纽约城，然后大概在五千五百米处到七千米左右就是分布随意和离散的dispersed.
+##
 
 
 ##DBSCAN
@@ -361,7 +361,7 @@ I_Global_Density_ <- points_sf_joined_d1_3 %>%
 
 I_Global_Density_
 
-##解释：接近1是聚集，接近-1是分散。I = 0.0773
+##
 
 #3.9 Geary'C----C = 0.116
 C_Global_Density <- points_sf_joined_d1_3 %>%
@@ -411,7 +411,7 @@ summary(model1)
 library(broom)
 tidy(model1)
 glance(model1)
-##解释
+##
 
 #4.2 Bootstrap resampling
 Bootstrapdata<- sat_info_2_regression%>%
@@ -548,11 +548,11 @@ model_data%>%
 par(mar = rep(2, 4))
 plot(model1)
 
-#测试自相关
+# DW test
 DW <- durbinWatsonTest(model1)
 tidy(DW)
 
-###残差图
+### Residual map
 tmap_mode("view")
 tm_shape(sat_info_3_residual) +
   tm_polygons("model1resids",
