@@ -1,5 +1,6 @@
-[
-  {
+{
+  "records": [
+    { 
     "Entity": "Afghanistan",
     "Code": "AFG",
     "Death_rate": 0.761195346
@@ -1153,5 +1154,6 @@
     "Entity": "Zimbabwe",
     "Code": "ZWE",
     "Death_rate": 2.250242033
-  }
-]
+    }
+  ]
+}
