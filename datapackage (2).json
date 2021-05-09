@@ -1,0 +1,113 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "",
+  "contact_email": "opendata@cdph.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf",
+  "description": "This is a source dataset for a Let's Get Healthy California indicator at https://letsgethealthy.ca.gov/: Deaths by suicide per 100,000 population. Data have been aggregated from statistical datasets compiled from California death records. ",
+  "geo_coverage": "California",
+  "geographic_granularity": "county",
+  "keywords": [
+    "lets get healthy california",
+    "lghc",
+    "mental health",
+    "mortality",
+    "suicide"
+  ],
+  "limitations": "Limitations",
+  "name": "suicide-deaths-per-100-000-population-lghc-indicator-21",
+  "program_web_page": "https://letsgethealthy.ca.gov/goals/living-well/reducing-suicide/",
+  "related_resources": "",
+  "resources": [
+    {
+      "format": "CSV",
+      "name": "suicide-lghc-indicator-21",
+      "path": "suicide-lghc-indicator-21.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Indicator",
+            "type": "string"
+          },
+          {
+            "name": "Geography",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Strata",
+            "type": "string"
+          },
+          {
+            "name": "Strata Name",
+            "type": "string"
+          },
+          {
+            "name": "Numerator",
+            "type": "string"
+          },
+          {
+            "name": "Denominator",
+            "type": "string"
+          },
+          {
+            "name": "Rate",
+            "type": "string"
+          },
+          {
+            "name": "Age Adjusted Rate",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/bba07a91-bf3f-438b-b7c9-92e6ce351f62/resource/d8a339df-8804-4874-9939-ec82e753b52c/download/suicide-lghc-indicator-21.csv",
+          "title": "Suicide (LGHC Indicator 21)"
+        }
+      ],
+      "title": "Suicide (LGHC Indicator 21)"
+    },
+    {
+      "format": "XLSX",
+      "name": "suicide-lghc-21-data-dictionary",
+      "path": "suicide-lghc-21-data-dictionary.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "Column Name",
+            "type": "string"
+          },
+          {
+            "name": "Format",
+            "type": "string"
+          },
+          {
+            "name": "Definition",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/bba07a91-bf3f-438b-b7c9-92e6ce351f62/resource/ff08be5e-0be0-4305-bda3-3251124e9f29/download/suicide-lghc-indicator-21-dd.xlsx",
+          "title": "Suicide (LGHC 21) Data Dictionary"
+        }
+      ],
+      "title": "Suicide (LGHC 21) Data Dictionary"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Center for Health Statistics and Informatics, CDPH"
+    }
+  ],
+  "temporal_coverage": "2001-2017",
+  "title": "Suicide, Deaths per 100,000 Population (LGHC Indicator)"
+}
