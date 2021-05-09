@@ -1,0 +1,1318 @@
+{
+  "records": [
+    { 
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "cases": 0.761195346,
+    "deaths": 0
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "cases": 0.744028379,
+    "deaths": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "cases": 1.011559284,
+    "deaths": 0
+  },
+  {
+    "Entity": "American Samoa",
+    "Code": "ASM",
+    "cases": 1.062878588,
+    "deaths": 0
+  },
+  {
+    "Entity": "Andean Latin America",
+    "Code": "",
+    "cases": 1.103344204,
+    "deaths": 0
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "cases": 1.463046777,
+    "deaths": 0
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "cases": 0.947498314,
+    "deaths": 0
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "cases": 0.466165139,
+    "deaths": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "cases": 1.510639995,
+    "deaths": 0
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "cases": 1.066223899,
+    "deaths": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "cases": 1.787193314,
+    "deaths": 0
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "cases": 1.747437083,
+    "deaths": 0
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "cases": 0.571280404,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "cases": 0.510856367,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "cases": 2.192667836,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "cases": 1.052635809,
+    "deaths": 0
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "cases": 0.536089943,
+    "deaths": 0
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "cases": 1.948714911,
+    "deaths": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "cases": 1.957649836,
+    "deaths": 0
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "cases": 1.490530504,
+    "deaths": 0
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "cases": 0.859371672,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "cases": 0.593747414,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "cases": 1.183647912,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "cases": 1.002332868,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "cases": 0.84182138,
+    "deaths": 0
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "cases": 1.405443949,
+    "deaths": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "cases": 1.048439986,
+    "deaths": 0
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "cases": 1.463147403,
+    "deaths": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "cases": 0.924341838,
+    "deaths": 0
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "cases": 0.825999022,
+    "deaths": 0
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "cases": 0.851973763,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "cases": 0.648561051,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "cases": 1.13507472,
+    "deaths": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "cases": 1.651977527,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "cases": 2.901820588,
+    "deaths": 0
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "cases": 0.811660785,
+    "deaths": 0
+  },
+  {
+    "Entity": "Central Europe, Eastern Europe, and Central Asia",
+    "Code": "",
+    "cases": 1.914110806,
+    "deaths": 0
+  },
+  {
+    "Entity": "Central Latin America",
+    "Code": "",
+    "cases": 1.193945471,
+    "deaths": 0
+  },
+  {
+    "Entity": "Central Sub-Saharan Africa",
+    "Code": "",
+    "cases": 0.884911049,
+    "deaths": 0
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "cases": 0.540355702,
+    "deaths": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "cases": 1.834582887,
+    "deaths": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "cases": 1.230227663,
+    "deaths": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "cases": 1.24413598,
+    "deaths": 0
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "cases": 0.985702988,
+    "deaths": 0
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "cases": 1.219263099,
+    "deaths": 0
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "cases": 1.678963119,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "cases": 1.035563513,
+    "deaths": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "cases": 1.38157369,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "cases": 1.764712961,
+    "deaths": 0
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "cases": 0.910824814,
+    "deaths": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "cases": 1.372462657,
+    "deaths": 0
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "cases": 0.84520129,
+    "deaths": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "cases": 1.281387256,
+    "deaths": 0
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "cases": 0.977407941,
+    "deaths": 0
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "cases": 0.513566709,
+    "deaths": 0
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "cases": 1.379325339,
+    "deaths": 0
+  },
+  {
+    "Entity": "Eastern Europe",
+    "Code": "",
+    "cases": 2.246841635,
+    "deaths": 0
+  },
+  {
+    "Entity": "Eastern Sub-Saharan Africa",
+    "Code": "",
+    "cases": 0.90991626,
+    "deaths": 0
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "cases": 1.786935657,
+    "deaths": 0
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "cases": 0.951751628,
+    "deaths": 0
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "cases": 1.474585141,
+    "deaths": 0
+  },
+  {
+    "Entity": "England",
+    "Code": "",
+    "cases": 0.908935398,
+    "deaths": 0
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "cases": 0.907834271,
+    "deaths": 0
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "cases": 1.343182573,
+    "deaths": 0
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "cases": 1.435077137,
+    "deaths": 0
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "cases": 2.047834579,
+    "deaths": 0
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "cases": 0.951013163,
+    "deaths": 0
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "cases": 1.17756227,
+    "deaths": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "cases": 1.576410045,
+    "deaths": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "cases": 1.910683997,
+    "deaths": 0
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "cases": 1.419273378,
+    "deaths": 0
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "cases": 0.873982131,
+    "deaths": 0
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "cases": 0.682741056,
+    "deaths": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "cases": 1.289062352,
+    "deaths": 0
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "cases": 0.946242949,
+    "deaths": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "cases": 0.430317735,
+    "deaths": 0
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "cases": 7.211967502,
+    "deaths": 0
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "cases": 0.536223149,
+    "deaths": 0
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "cases": 2.761063769,
+    "deaths": 0
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "cases": 1.076373148,
+    "deaths": 0
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "cases": 0.688642836,
+    "deaths": 0
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "cases": 0.907356,
+    "deaths": 0
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "cases": 3.406109955,
+    "deaths": 0
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "cases": 0.941983812,
+    "deaths": 0
+  },
+  {
+    "Entity": "High-income",
+    "Code": "",
+    "cases": 1.654207797,
+    "deaths": 0
+  },
+  {
+    "Entity": "High-income Asia Pacific",
+    "Code": "",
+    "cases": 2.632480545,
+    "deaths": 0
+  },
+  {
+    "Entity": "High-middle SDI",
+    "Code": "",
+    "cases": 1.402488741,
+    "deaths": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "cases": 0.792311704,
+    "deaths": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "cases": 1.659641867,
+    "deaths": 0
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "cases": 1.810335929,
+    "deaths": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "cases": 2.127877535,
+    "deaths": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "cases": 0.481723296,
+    "deaths": 0
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "cases": 1.255617999,
+    "deaths": 0
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "cases": 0.994540875,
+    "deaths": 0
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "cases": 1.469769619,
+    "deaths": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "cases": 1.187182403,
+    "deaths": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "cases": 0.697126647,
+    "deaths": 0
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "cases": 0.534329583,
+    "deaths": 0
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "cases": 2.100840053,
+    "deaths": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "cases": 1.105835757,
+    "deaths": 0
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "cases": 3.166981306,
+    "deaths": 0
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "cases": 1.058731903,
+    "deaths": 0
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "cases": 2.946105305,
+    "deaths": 0
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "cases": 1.680258152,
+    "deaths": 0
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "cases": 1.75321507,
+    "deaths": 0
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "cases": 1.184452733,
+    "deaths": 0
+  },
+  {
+    "Entity": "Latin America and Caribbean",
+    "Code": "",
+    "cases": 1.14057513,
+    "deaths": 0
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "cases": 1.56113878,
+    "deaths": 0
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "cases": 1.20811859,
+    "deaths": 0
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "cases": 2.026897546,
+    "deaths": 0
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "cases": 1.08869578,
+    "deaths": 0
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "cases": 1.676518247,
+    "deaths": 0
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "cases": 2.524897136,
+    "deaths": 0
+  },
+  {
+    "Entity": "Low-middle SDI",
+    "Code": "",
+    "cases": 1.483222789,
+    "deaths": 0
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "cases": 1.560218516,
+    "deaths": 0
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "cases": 0.860983053,
+    "deaths": 0
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "cases": 0.918025702,
+    "deaths": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "cases": 1.381018608,
+    "deaths": 0
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "cases": 1.316146434,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "cases": 0.389544208,
+    "deaths": 0
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "cases": 0.667481592,
+    "deaths": 0
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "cases": 2.859772089,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "cases": 0.786471326,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "cases": 1.138383722,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "cases": 1.073296334,
+    "deaths": 0
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "cases": 2.263121469,
+    "deaths": 0
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "cases": 1.553667397,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "cases": 2.473222163,
+    "deaths": 0
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "cases": 1.178418007,
+    "deaths": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "cases": 1.165235104,
+    "deaths": 0
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "cases": 1.060482945,
+    "deaths": 0
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "cases": 0.651505025,
+    "deaths": 0
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "cases": 1.359561618,
+    "deaths": 0
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "cases": 1.280283129,
+    "deaths": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "cases": 1.358551426,
+    "deaths": 0
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "cases": 1.646317538,
+    "deaths": 0
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "cases": 1.606223769,
+    "deaths": 0
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "cases": 0.436625905,
+    "deaths": 0
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "cases": 0.508181638,
+    "deaths": 0
+  },
+  {
+    "Entity": "North Africa and Middle East",
+    "Code": "",
+    "cases": 0.961058091,
+    "deaths": 0
+  },
+  {
+    "Entity": "North America",
+    "Code": "",
+    "cases": 1.703474631,
+    "deaths": 0
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "cases": 1.40710887,
+    "deaths": 0
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "cases": 1.001271676,
+    "deaths": 0
+  },
+  {
+    "Entity": "Northern Ireland",
+    "Code": "",
+    "cases": 1.298057976,
+    "deaths": 0
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "cases": 2.142065259,
+    "deaths": 0
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "cases": 1.409336009,
+    "deaths": 0
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "cases": 1.25815782,
+    "deaths": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "cases": 0.641413986,
+    "deaths": 0
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "cases": 1.004493773,
+    "deaths": 0
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "cases": 1.046457165,
+    "deaths": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "cases": 2.381091605,
+    "deaths": 0
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "cases": 1.199474106,
+    "deaths": 0
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "cases": 0.728014609,
+    "deaths": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "cases": 0.834989206,
+    "deaths": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "cases": 1.718713717,
+    "deaths": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "cases": 1.194385384,
+    "deaths": 0
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "cases": 0.820003074,
+    "deaths": 0
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "cases": 3.877042396,
+    "deaths": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "cases": 0.905429472,
+    "deaths": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "cases": 2.392598308,
+    "deaths": 0
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "cases": 1.138685277,
+    "deaths": 0
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "cases": 1.044560099,
+    "deaths": 0
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "cases": 0.906083336,
+    "deaths": 0
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "cases": 1.593201409,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "cases": 0.507046955,
+    "deaths": 0
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "cases": 1.142225348,
+    "deaths": 0
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "cases": 1.269017109,
+    "deaths": 0
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "cases": 1.294554573,
+    "deaths": 0
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "cases": 1.16647661,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "cases": 0.636978106,
+    "deaths": 0
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "cases": 2.501471161,
+    "deaths": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "cases": 1.27794578,
+    "deaths": 0
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "cases": 2.161266231,
+    "deaths": 0
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "cases": 2.244914825,
+    "deaths": 0
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "cases": 0.585007041,
+    "deaths": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "cases": 1.309257339,
+    "deaths": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "cases": 5.082120612,
+    "deaths": 0
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "cases": 0.611554064,
+    "deaths": 0
+  },
+  {
+    "Entity": "Southeast Asia",
+    "Code": "",
+    "cases": 0.955292456,
+    "deaths": 0
+  },
+  {
+    "Entity": "Southeast Asia, East Asia, and Oceania",
+    "Code": "",
+    "cases": 1.178684137,
+    "deaths": 0
+  },
+  {
+    "Entity": "Southern Latin America",
+    "Code": "",
+    "cases": 1.62261889,
+    "deaths": 0
+  },
+  {
+    "Entity": "Southern Sub-Saharan Africa",
+    "Code": "",
+    "cases": 1.519287123,
+    "deaths": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "cases": 0.898425731,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "cases": 3.587271303,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sub-Saharan Africa",
+    "Code": "",
+    "cases": 0.852752066,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "cases": 0.792026626,
+    "deaths": 0
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "cases": 3.419018625,
+    "deaths": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "cases": 1.517680278,
+    "deaths": 0
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "cases": 1.754568705,
+    "deaths": 0
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "cases": 0.425045861,
+    "deaths": 0
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "cases": 2.424384186,
+    "deaths": 0
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "cases": 1.011796539,
+    "deaths": 0
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "cases": 0.770293082,
+    "deaths": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "cases": 1.876095968,
+    "deaths": 0
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "cases": 1.070413068,
+    "deaths": 0
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "cases": 1.125521163,
+    "deaths": 0
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "cases": 0.808090692,
+    "deaths": 0
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "cases": 1.38250855,
+    "deaths": 0
+  },
+  {
+    "Entity": "Tropical Latin America",
+    "Code": "",
+    "cases": 1.052046054,
+    "deaths": 0
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "cases": 0.568281123,
+    "deaths": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "cases": 0.710314856,
+    "deaths": 0
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "cases": 1.32784224,
+    "deaths": 0
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "cases": 0.872043683,
+    "deaths": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "cases": 1.982766657,
+    "deaths": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "cases": 2.266213146,
+    "deaths": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "cases": 0.949908246,
+    "deaths": 0
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "cases": 1.707624259,
+    "deaths": 0
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "Code": "VIR",
+    "cases": 0.739444222,
+    "deaths": 0
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "cases": 2.017703074,
+    "deaths": 0
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "cases": 1.478298394,
+    "deaths": 0
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "cases": 2.023306904,
+    "deaths": 0
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "cases": 1.611959423,
+    "deaths": 0
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "cases": 1.229130491,
+    "deaths": 0
+  },
+  {
+    "Entity": "Western Europe",
+    "Code": "",
+    "cases": 1.216645065,
+    "deaths": 0
+  },
+  {
+    "Entity": "Western Sub-Saharan Africa",
+    "Code": "",
+    "cases": 0.668030918,
+    "deaths": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "cases": 1.41891885,
+    "deaths": 0
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "cases": 0.891254916,
+    "deaths": 0
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "cases": 0.981105186,
+    "deaths": 0
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "cases": 2.250242033,
+    "deaths": 0
+    }
+  ]
+}
