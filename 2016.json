@@ -1,0 +1,977 @@
+[
+  {
+    "Entity": "Afghanistan",
+    "cases": 9.251599862,
+    "geoId": "AF"
+  },
+  {
+    "Entity": "Albania",
+    "cases": 5.155579107,
+    "geoId": "AL"
+  },
+  {
+    "Entity": "Algeria",
+    "cases": 4.1878147,
+    "geoId": "DZ"
+  },
+  {
+    "Entity": "American Samoa",
+    "cases": 6.753623477,
+    "geoId": "AQ"
+  },
+  {
+    "Entity": "Andorra",
+    "cases": 7.944369505,
+    "geoId": "AD"
+  },
+  {
+    "Entity": "Angola",
+    "cases": 11.98816387,
+    "geoId": "AO"
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "cases": 2.664481702,
+    "geoId": "AG"
+  },
+  {
+    "Entity": "Argentina",
+    "cases": 10.62744585,
+    "geoId": "AR"
+  },
+  {
+    "Entity": "Armenia",
+    "cases": 8.464023593,
+    "geoId": "AM"
+  },
+  {
+    "Entity": "Australia",
+    "cases": 11.08186987,
+    "geoId": "AU"
+  },
+  {
+    "Entity": "Austria",
+    "cases": 11.42054584,
+    "geoId": "AT"
+  },
+  {
+    "Entity": "Azerbaijan",
+    "cases": 4.107187878,
+    "geoId": "AZ"
+  },
+  {
+    "Entity": "Bahamas",
+    "cases": 3.16952292,
+    "geoId": "BS"
+  },
+  {
+    "Entity": "Bahrain",
+    "cases": 4.249785574,
+    "geoId": "BH"
+  },
+  {
+    "Entity": "Bangladesh",
+    "cases": 6.040776809,
+    "geoId": "BD"
+  },
+  {
+    "Entity": "Barbados",
+    "cases": 3.958051006,
+    "geoId": "BB"
+  },
+  {
+    "Entity": "Belarus",
+    "cases": 18.85417888,
+    "geoId": "BY"
+  },
+  {
+    "Entity": "Belgium",
+    "cases": 14.42261498,
+    "geoId": "BE"
+  },
+  {
+    "Entity": "Belize",
+    "cases": 7.784886233,
+    "geoId": "BZ"
+  },
+  {
+    "Entity": "Benin",
+    "cases": 11.23485116,
+    "geoId": "BJ"
+  },
+  {
+    "Entity": "Bermuda",
+    "cases": 3.449199951,
+    "geoId": "BM"
+  },
+  {
+    "Entity": "Bhutan",
+    "cases": 5.784970548,
+    "geoId": "BT"
+  },
+  {
+    "Entity": "Bolivia",
+    "cases": 6.445286497,
+    "geoId": "BO"
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "cases": 6.933259919,
+    "geoId": "BA"
+  },
+  {
+    "Entity": "Botswana",
+    "cases": 10.12045331,
+    "geoId": "BW"
+  },
+  {
+    "Entity": "Brazil",
+    "cases": 6.070050194,
+    "geoId": "BR"
+  },
+  {
+    "Entity": "Brunei",
+    "cases": 6.123049517,
+    "geoId": "BN"
+  },
+  {
+    "Entity": "Bulgaria",
+    "cases": 9.373283872,
+    "geoId": "BG"
+  },
+  {
+    "Entity": "Burkina Faso",
+    "cases": 13.29497399,
+    "geoId": "BF"
+  },
+  {
+    "Entity": "Burundi",
+    "cases": 12.67371223,
+    "geoId": "BI"
+  },
+  {
+    "Entity": "Cambodia",
+    "cases": 4.590873787,
+    "geoId": "KH"
+  },
+  {
+    "Entity": "Cameroon",
+    "cases": 14.26269366,
+    "geoId": "CM"
+  },
+  {
+    "Entity": "Canada",
+    "cases": 11.06549341,
+    "geoId": "CA"
+  },
+  {
+    "Entity": "Cape Verde",
+    "cases": 16.81054513,
+    "geoId": "CV"
+  },
+  {
+    "Entity": "Central African Republic",
+    "cases": 17.05389843,
+    "geoId": "CF"
+  },
+  {
+    "Entity": "Chad",
+    "cases": 11.05716501,
+    "geoId": "TD"
+  },
+  {
+    "Entity": "Chile",
+    "cases": 10.14760437,
+    "geoId": "CL"
+  },
+  {
+    "Entity": "China",
+    "cases": 7.255174144,
+    "geoId": "CN"
+  },
+  {
+    "Entity": "Colombia",
+    "cases": 5.540307678,
+    "geoId": "CO"
+  },
+  {
+    "Entity": "Comoros",
+    "cases": 8.343457119,
+    "geoId": "KM"
+  },
+  {
+    "Entity": "Congo",
+    "cases": 13.93294336,
+    "geoId": "CG"
+  },
+  {
+    "Entity": "Costa Rica",
+    "cases": 7.785396682,
+    "geoId": "CR"
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "cases": 14.08199016,
+    "geoId": "CI"
+  },
+  {
+    "Entity": "Croatia",
+    "cases": 11.3030633,
+    "geoId": "HR"
+  },
+  {
+    "Entity": "Cuba",
+    "cases": 11.21504693,
+    "geoId": "CU"
+  },
+  {
+    "Entity": "Cyprus",
+    "cases": 4.638157858,
+    "geoId": "CY"
+  },
+  {
+    "Entity": "Czechia",
+    "cases": 10.91706348,
+    "geoId": "CZ"
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "cases": 11.55761551,
+    "geoId": "CD"
+  },
+  {
+    "Entity": "Denmark",
+    "cases": 8.661886179,
+    "geoId": "DK"
+  },
+  {
+    "Entity": "Djibouti",
+    "cases": 8.481605248,
+    "geoId": "DJ"
+  },
+  {
+    "Entity": "Dominica",
+    "cases": 4.528486812,
+    "geoId": "DM"
+  },
+  {
+    "Entity": "Dominican Republic",
+    "cases": 9.028557391,
+    "geoId": "DO"
+  },
+  {
+    "Entity": "Ecuador",
+    "cases": 9.268925283,
+    "geoId": "EC"
+  },
+  {
+    "Entity": "Egypt",
+    "cases": 5.436074107,
+    "geoId": "EG"
+  },
+  {
+    "Entity": "El Salvador",
+    "cases": 9.935906243,
+    "geoId": "SV"
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "cases": 9.287464918,
+    "geoId": "GQ"
+  },
+  {
+    "Entity": "Eritrea",
+    "cases": 15.995559,
+    "geoId": "ER"
+  },
+  {
+    "Entity": "Estonia",
+    "cases": 12.8737034,
+    "geoId": "EE"
+  },
+  {
+    "Entity": "Eswatini",
+    "cases": 23.53412026,
+    "geoId": "SZ"
+  },
+  {
+    "Entity": "Ethiopia",
+    "cases": 9.702979273,
+    "geoId": "ET"
+  },
+  {
+    "Entity": "Fiji",
+    "cases": 9.891468963,
+    "geoId": "FJ"
+  },
+  {
+    "Entity": "Finland",
+    "cases": 12.72129306,
+    "geoId": "FI"
+  },
+  {
+    "Entity": "France",
+    "cases": 12.52282907,
+    "geoId": "FR"
+  },
+  {
+    "Entity": "Gabon",
+    "cases": 12.61836091,
+    "geoId": "GA"
+  },
+  {
+    "Entity": "Gambia",
+    "cases": 9.743733671,
+    "geoId": "GM"
+  },
+  {
+    "Entity": "Georgia",
+    "cases": 7.466652283,
+    "geoId": "GE"
+  },
+  {
+    "Entity": "Germany",
+    "cases": 9.903972522,
+    "geoId": "DE"
+  },
+  {
+    "Entity": "Ghana",
+    "cases": 9.842042225,
+    "geoId": "GH"
+  },
+  {
+    "Entity": "Greece",
+    "cases": 3.548049173,
+    "geoId": "GR"
+  },
+  {
+    "Entity": "Greenland",
+    "cases": 51.60994852,
+    "geoId": "GL"
+  },
+  {
+    "Entity": "Grenada",
+    "cases": 4.782517421,
+    "geoId": "GD"
+  },
+  {
+    "Entity": "Guam",
+    "cases": 20.6720375,
+    "geoId": "GU"
+  },
+  {
+    "Entity": "Guatemala",
+    "cases": 5.69529419,
+    "geoId": "GT"
+  },
+  {
+    "Entity": "Guinea",
+    "cases": 11.21144128,
+    "geoId": "GN"
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "cases": 13.76097302,
+    "geoId": "GW"
+  },
+  {
+    "Entity": "Guyana",
+    "cases": 26.63791823,
+    "geoId": "GY"
+  },
+  {
+    "Entity": "Haiti",
+    "cases": 8.618418872,
+    "geoId": "HT"
+  },
+  {
+    "Entity": "Honduras",
+    "cases": 4.429900573,
+    "geoId": "HN"
+  },
+  {
+    "Entity": "Hungary",
+    "cases": 14.69779403,
+    "geoId": "HU"
+  },
+  {
+    "Entity": "Iceland",
+    "cases": 9.838218069,
+    "geoId": "IS"
+  },
+  {
+    "Entity": "India",
+    "cases": 15.73827567,
+    "geoId": "IN"
+  },
+  {
+    "Entity": "Indonesia",
+    "cases": 3.15060259,
+    "geoId": "ID"
+  },
+  {
+    "Entity": "Iran",
+    "cases": 5.546188087,
+    "geoId": "IR"
+  },
+  {
+    "Entity": "Iraq",
+    "cases": 4.155932559,
+    "geoId": "IQ"
+  },
+  {
+    "Entity": "Ireland",
+    "cases": 8.352954987,
+    "geoId": "IE"
+  },
+  {
+    "Entity": "Israel",
+    "cases": 5.7759239,
+    "geoId": "IL"
+  },
+  {
+    "Entity": "Italy",
+    "cases": 4.850424784,
+    "geoId": "IT"
+  },
+  {
+    "Entity": "Jamaica",
+    "cases": 3.639540845,
+    "geoId": "JM"
+  },
+  {
+    "Entity": "Japan",
+    "cases": 15.63227525,
+    "geoId": "JP"
+  },
+  {
+    "Entity": "Jordan",
+    "cases": 3.234423461,
+    "geoId": "JO"
+  },
+  {
+    "Entity": "Kazakhstan",
+    "cases": 22.76949663,
+    "geoId": "KZ"
+  },
+  {
+    "Entity": "Kenya",
+    "cases": 11.18413503,
+    "geoId": "KE"
+  },
+  {
+    "Entity": "Kiribati",
+    "cases": 26.61380268,
+    "geoId": "KI"
+  },
+  {
+    "Entity": "Kuwait",
+    "cases": 2.489959457,
+    "geoId": "KW"
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "cases": 10.16631293,
+    "geoId": "KG"
+  },
+  {
+    "Entity": "Laos",
+    "cases": 8.585078416,
+    "geoId": "LA"
+  },
+  {
+    "Entity": "Latvia",
+    "cases": 16.94008457,
+    "geoId": "LV"
+  },
+  {
+    "Entity": "Lebanon",
+    "cases": 4.791321684,
+    "geoId": "LB"
+  },
+  {
+    "Entity": "Lesotho",
+    "cases": 33.09882905,
+    "geoId": "LS"
+  },
+  {
+    "Entity": "Liberia",
+    "cases": 13.28802629,
+    "geoId": "LR"
+  },
+  {
+    "Entity": "Libya",
+    "cases": 8.059499935,
+    "geoId": "LY"
+  },
+  {
+    "Entity": "Lithuania",
+    "cases": 28.1767995,
+    "geoId": "LT"
+  },
+  {
+    "Entity": "Luxembourg",
+    "cases": 8.782066076,
+    "geoId": "LU"
+  },
+  {
+    "Entity": "Madagascar",
+    "cases": 11.06769912,
+    "geoId": "MG"
+  },
+  {
+    "Entity": "Malawi",
+    "cases": 12.28375702,
+    "geoId": "MW"
+  },
+  {
+    "Entity": "Malaysia",
+    "cases": 7.726187122,
+    "geoId": "MY"
+  },
+  {
+    "Entity": "Maldives",
+    "cases": 3.342882942,
+    "geoId": "MV"
+  },
+  {
+    "Entity": "Mali",
+    "cases": 6.835399672,
+    "geoId": "ML"
+  },
+  {
+    "Entity": "Malta",
+    "cases": 4.496287419,
+    "geoId": "MT"
+  },
+  {
+    "Entity": "Marshall Islands",
+    "cases": 22.70582364,
+    "geoId": "MH"
+  },
+  {
+    "Entity": "Mauritania",
+    "cases": 6.648703611,
+    "geoId": "MR"
+  },
+  {
+    "Entity": "Mauritius",
+    "cases": 8.36801334,
+    "geoId": "MU"
+  },
+  {
+    "Entity": "Mexico",
+    "cases": 5.883073831,
+    "geoId": "MX"
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "cases": 17.10205512,
+    "geoId": "FM"
+  },
+  {
+    "Entity": "Moldova",
+    "cases": 14.05130086,
+    "geoId": "MD"
+  },
+  {
+    "Entity": "Mongolia",
+    "cases": 15.5104537,
+    "geoId": "MN"
+  },
+  {
+    "Entity": "Montenegro",
+    "cases": 9.442425285,
+    "geoId": "ME"
+  },
+  {
+    "Entity": "Morocco",
+    "cases": 7.228808991,
+    "geoId": "MA"
+  },
+  {
+    "Entity": "Mozambique",
+    "cases": 17.46915357,
+    "geoId": "MZ"
+  },
+  {
+    "Entity": "Myanmar",
+    "cases": 5.123096638,
+    "geoId": "MM"
+  },
+  {
+    "Entity": "Namibia",
+    "cases": 11.87201769,
+    "geoId": "NA"
+  },
+  {
+    "Entity": "Nepal",
+    "cases": 8.45168259,
+    "geoId": "NP"
+  },
+  {
+    "Entity": "Netherlands",
+    "cases": 9.306815789,
+    "geoId": "NL"
+  },
+  {
+    "Entity": "New Zealand",
+    "cases": 11.20023326,
+    "geoId": "NZ"
+  },
+  {
+    "Entity": "Nicaragua",
+    "cases": 5.962931353,
+    "geoId": "NI"
+  },
+  {
+    "Entity": "Niger",
+    "cases": 7.645102873,
+    "geoId": "NE"
+  },
+  {
+    "Entity": "Nigeria",
+    "cases": 7.549027063,
+    "geoId": "NG"
+  },
+  {
+    "Entity": "North Korea",
+    "cases": 11.11240874,
+    "geoId": "KP"
+  },
+  {
+    "Entity": "North Macedonia",
+    "cases": 6.860036384,
+    "geoId": "MK"
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "cases": 12.11244373,
+    "geoId": "MP"
+  },
+  {
+    "Entity": "Norway",
+    "cases": 9.201910752,
+    "geoId": "NO"
+  },
+  {
+    "Entity": "Oman",
+    "cases": 2.935338599,
+    "geoId": "OM"
+  },
+  {
+    "Entity": "Pakistan",
+    "cases": 4.510080278,
+    "geoId": "PK"
+  },
+  {
+    "Entity": "Palestine",
+    "cases": 3.591606718,
+    "geoId": "PS"
+  },
+  {
+    "Entity": "Panama",
+    "cases": 4.894112484,
+    "geoId": "PA"
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "cases": 23.24585576,
+    "geoId": "PG"
+  },
+  {
+    "Entity": "Paraguay",
+    "cases": 5.789450537,
+    "geoId": "PY"
+  },
+  {
+    "Entity": "Peru",
+    "cases": 3.147127083,
+    "geoId": "PE"
+  },
+  {
+    "Entity": "Philippines",
+    "cases": 6.05167075,
+    "geoId": "PH"
+  },
+  {
+    "Entity": "Poland",
+    "cases": 14.21652834,
+    "geoId": "PL"
+  },
+  {
+    "Entity": "Portugal",
+    "cases": 7.64201923,
+    "geoId": "PT"
+  },
+  {
+    "Entity": "Puerto Rico",
+    "cases": 5.919667769,
+    "geoId": "PR"
+  },
+  {
+    "Entity": "Qatar",
+    "cases": 4.624131616,
+    "geoId": "QA"
+  },
+  {
+    "Entity": "Romania",
+    "cases": 9.095293361,
+    "geoId": "RO"
+  },
+  {
+    "Entity": "Russia",
+    "cases": 25.3915076,
+    "geoId": "RU"
+  },
+  {
+    "Entity": "Rwanda",
+    "cases": 11.03175528,
+    "geoId": "RW"
+  },
+  {
+    "Entity": "Saint Lucia",
+    "cases": 6.818842524,
+    "geoId": "LC"
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "cases": 7.167859754,
+    "geoId": "VC"
+  },
+  {
+    "Entity": "Samoa",
+    "cases": 10.02552784,
+    "geoId": "WS"
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "cases": 3.554406615,
+    "geoId": "ST"
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "cases": 2.974638055,
+    "geoId": "SA"
+  },
+  {
+    "Entity": "Senegal",
+    "cases": 13.01859218,
+    "geoId": "SN"
+  },
+  {
+    "Entity": "Serbia",
+    "cases": 12.90264348,
+    "geoId": "RS"
+  },
+  {
+    "Entity": "Seychelles",
+    "cases": 7.982924196,
+    "geoId": "SC"
+  },
+  {
+    "Entity": "Sierra Leone",
+    "cases": 9.948689145,
+    "geoId": "SL"
+  },
+  {
+    "Entity": "Singapore",
+    "cases": 7.404878043,
+    "geoId": "SG"
+  },
+  {
+    "Entity": "Slovakia",
+    "cases": 9.760763807,
+    "geoId": "SK"
+  },
+  {
+    "Entity": "Slovenia",
+    "cases": 14.44121565,
+    "geoId": "SI"
+  },
+  {
+    "Entity": "Solomon Islands",
+    "cases": 16.4825996,
+    "geoId": "SB"
+  },
+  {
+    "Entity": "Somalia",
+    "cases": 10.01019686,
+    "geoId": "SO"
+  },
+  {
+    "Entity": "South Africa",
+    "cases": 10.92395793,
+    "geoId": "ZA"
+  },
+  {
+    "Entity": "South Korea",
+    "cases": 21.22913702,
+    "geoId": "KR"
+  },
+  {
+    "Entity": "South Sudan",
+    "cases": 12.03237022,
+    "geoId": "SS"
+  },
+  {
+    "Entity": "Spain",
+    "cases": 5.592000068,
+    "geoId": "ES"
+  },
+  {
+    "Entity": "Sri Lanka",
+    "cases": 19.95052735,
+    "geoId": "LK"
+  },
+  {
+    "Entity": "Sudan",
+    "cases": 5.046375671,
+    "geoId": "SD"
+  },
+  {
+    "Entity": "Suriname",
+    "cases": 24.7500216,
+    "geoId": "SR"
+  },
+  {
+    "Entity": "Sweden",
+    "cases": 11.24979731,
+    "geoId": "SE"
+  },
+  {
+    "Entity": "Switzerland",
+    "cases": 9.442203559,
+    "geoId": "CH"
+  },
+  {
+    "Entity": "Syria",
+    "cases": 3.078452311,
+    "geoId": "SY"
+  },
+  {
+    "Entity": "Taiwan",
+    "cases": 13.39808814,
+    "geoId": "TW"
+  },
+  {
+    "Entity": "Tajikistan",
+    "cases": 5.848133277,
+    "geoId": "TJ"
+  },
+  {
+    "Entity": "Tanzania",
+    "cases": 8.797740581,
+    "geoId": "TZ"
+  },
+  {
+    "Entity": "Thailand",
+    "cases": 10.30319905,
+    "geoId": "TH"
+  },
+  {
+    "Entity": "Timor",
+    "cases": 7.360242873,
+    "geoId": "TL"
+  },
+  {
+    "Entity": "Togo",
+    "cases": 12.30890295,
+    "geoId": "TG"
+  },
+  {
+    "Entity": "Tonga",
+    "cases": 6.005841422,
+    "geoId": "TO"
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "cases": 10.04167163,
+    "geoId": "TT"
+  },
+  {
+    "Entity": "Tunisia",
+    "cases": 3.136991988,
+    "geoId": "TN"
+  },
+  {
+    "Entity": "Turkey",
+    "cases": 3.34918813,
+    "geoId": "TR"
+  },
+  {
+    "Entity": "Turkmenistan",
+    "cases": 8.730908738,
+    "geoId": "TM"
+  },
+  {
+    "Entity": "Uganda",
+    "cases": 11.5958865,
+    "geoId": "UG"
+  },
+  {
+    "Entity": "Ukraine",
+    "cases": 27.96606294,
+    "geoId": "UA"
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "cases": 5.113126559,
+    "geoId": "AE"
+  },
+  {
+    "Entity": "United Kingdom",
+    "cases": 7.368399814,
+    "geoId": "GB"
+  },
+  {
+    "Entity": "United States",
+    "cases": 12.8414853,
+    "geoId": "US"
+  },
+  {
+    "Entity": "United States Virgin Islands",
+    "cases": 6.270592322,
+    "geoId": "VI"
+  },
+  {
+    "Entity": "Uruguay",
+    "cases": 17.0003519,
+    "geoId": "UY"
+  },
+  {
+    "Entity": "Uzbekistan",
+    "cases": 9.475538636,
+    "geoId": "UZ"
+  },
+  {
+    "Entity": "Vanuatu",
+    "cases": 17.73193755,
+    "geoId": "VU"
+  },
+  {
+    "Entity": "Venezuela",
+    "cases": 8.599015476,
+    "geoId": "VE"
+  },
+  {
+    "Entity": "Vietnam",
+    "cases": 7.460807379,
+    "geoId": "VN"
+  },
+  {
+    "Entity": "Yemen",
+    "cases": 5.977991206,
+    "geoId": "YE"
+  },
+  {
+    "Entity": "Zambia",
+    "cases": 13.1048187,
+    "geoId": "ZM"
+  },
+  {
+    "Entity": "Zimbabwe",
+    "cases": 26.83959101,
+    "geoId": "ZW"
+  }
+]
